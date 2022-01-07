@@ -5,3 +5,4 @@ SpaceX advertises a cost of $62 million on its website for Falcon 9 rocket launc
 
 ### Skills Required:
 Python 3, Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn, Folium, Sklearn, Requests.
+[IBM Data Science.pdf](https://github.com/WlaBor/IBM-Data-Science-SpaceX-Project/files/7830553/IBM.Data.Science.pdf)

@@ -8,4 +8,4 @@ Python 3, Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn, Folium, Sklearn,
 
 ## My IBM Data Science Certificate
 ![Unbenannt](https://user-images.githubusercontent.com/79568014/148588292-7d40561a-5027-4c92-8e22-5f71df6c715f.PNG)
-[IBM Data Science.pdf](https://github.com/WlaBor/IBM-Data-Science-SpaceX-Project/files/7830553/IBM.Data.Science.pdf)
+https://www.coursera.org/account/accomplishments/professional-cert/TQUEWJKC2ESE?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof
